@@ -28,9 +28,7 @@ https://baris-emektar.blogspot.com/2025/01/the-final-stretch.html
 
 Here is a short piece of my work:
 
-[![Watch the video](https://youtu.be/lSUe6vNLLds/0.jpg)](https://youtu.be/lSUe6vNLLds)
-
-
+[![Video Title](https://img.youtube.com/vi/lSUe6vNLLds/0.jpg)](https://www.youtube.com/watch?v=lSUe6vNLLds)
 
 ## Build Instructions (Example)
 
