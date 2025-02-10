@@ -20,6 +20,18 @@ This repository contains the source code for my final project on optimizing ray 
 *   SDL2
 *   Task Thread Pool Library (https://github.com/alugowski/task-thread-pool)
 
+## Project Report
+
+A detailed report is included in the following link, providing a comprehensive overview of the project, including implementation details, performance analysis, and conclusions.
+
+https://baris-emektar.blogspot.com/2025/01/the-final-stretch.html
+
+Here is a short piece of my work:
+
+[![Watch the video](https://youtu.be/lSUe6vNLLds/0.jpg)](https://youtu.be/lSUe6vNLLds)
+
+
+
 ## Build Instructions (Example)
 
 After installing the same development environment (which is more difficult than writing code), you can simply run create.bat.
