@@ -4,7 +4,7 @@ This repository contains the source code for my final project on optimizing ray 
 
 ## Key Features
 
-*   Implementation of a ray tracer developed throughout the CENG795 course, incorporating advanced features like path tracing, texture mapping, and various lighting models.
+*   Implementation of a ray tracer developed throughout the CENG795 course, incorporating advanced features like BVH, texture mapping, and various lighting models.
 *   Comparison of different multithreading techniques: Single Thread, 8 Threads, 20 Threads, and Thread Pool with varying chunk sizes (80x80 and 20x20).
 *   Real-time rendering visualization using SDL2, showcasing the progressive rendering of image blocks.  Includes details on overcoming SDL2 threading challenges.
 *   Performance analysis and comparison of the different multithreading approaches across a range of complex scenes.
