@@ -27,6 +27,7 @@ A detailed report is included in the following link, providing a comprehensive o
 https://baris-emektar.blogspot.com/2025/01/the-final-stretch.html
 
 Here is a short piece of my work:
+
 [![20 THREAD POOL 20x20 Square Chunks Real Time Rendering](https://img.youtube.com/vi/lSUe6vNLLds/0.jpg)](https://www.youtube.com/watch?v=lSUe6vNLLds)
 
 ## Build Instructions (Example)
