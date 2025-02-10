@@ -23,3 +23,8 @@ This repository contains the source code for my final project on optimizing ray 
 ## Build Instructions (Example)
 
 After installing the same development environment (which is more difficult than writing code), you can simply run create.bat.
+
+## Future Work (Potential)
+*   Dynamic Chunk Size Allocation
+*   GPU Acceleration (e.g., CUDA, OpenCL)
+*   Advanced Thread Pool Strategies (e.g., job stealing)
