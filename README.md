@@ -30,7 +30,7 @@ Here is a short piece of my work:
 
 [![20 THREAD POOL 20x20 Square Chunks Real Time Rendering](https://img.youtube.com/vi/lSUe6vNLLds/0.jpg)](https://www.youtube.com/watch?v=lSUe6vNLLds)
 
-## Build Instructions (Example)
+## Build Instructions
 
 After installing the same development environment (which is more difficult than writing code), you can simply run create.bat.
 
