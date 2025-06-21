@@ -24,7 +24,7 @@ This repository contains the source code for my final project on optimizing ray 
 
 A detailed report is included in the following link, providing a comprehensive overview of the project, including implementation details, performance analysis, and conclusions.
 
-https://baris-emektar.blogspot.com/2025/01/the-final-stretch.html
+https://advanced-ray-tracing.blogspot.com/2025/01/the-final-stretch.html
 
 The reports written for the assignments given in the course are available in the blogpost link below.
 
