@@ -28,7 +28,7 @@ https://baris-emektar.blogspot.com/2025/01/the-final-stretch.html
 
 The reports written for the assignments given in the course are available in the blogpost link below.
 
-https://baris-emektar.blogspot.com/
+https://advanced-ray-tracing.blogspot.com/
 
 Here is a short piece of my work:
 
